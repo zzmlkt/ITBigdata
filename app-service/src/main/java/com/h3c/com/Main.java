@@ -6,7 +6,7 @@ package com.h3c.com;
 public class Main {
     public static void main(String[] args)
     {
-        String s="ds";
+        String s="ds";//注释
         System.out.println("hello world");
     }
 }
