@@ -6,6 +6,7 @@ package com.h3c.com;
 public class Main {
     public static void main(String[] args)
     {
+        String s="ds";
         System.out.println("hello world");
     }
 }
