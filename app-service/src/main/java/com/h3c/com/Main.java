@@ -6,7 +6,11 @@ package com.h3c.com;
 public class Main {
     public static void main(String[] args)
     {
-        String s="ds";//注释
-        System.out.println("hello world");
+        String s="test";
+        if(s.equals(" "))
+            System.out.println("true");
+        else{
+            System.out.println("false");
+        }
     }
 }
